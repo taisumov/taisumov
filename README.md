@@ -4,6 +4,8 @@
 + 🔥 Going to be Frontend/Backend Developer!
 # ![My Codewars](https://www.codewars.com/users/taisumov/badges/large)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=taisumov)](https://github.com/taisumov/github-profile-trophy)
+
 <!--
 **taisumov/taisumov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
