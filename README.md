@@ -4,7 +4,7 @@
 + 🔥 Going to be Frontend/Backend Developer!
 # ![My Codewars](https://www.codewars.com/users/taisumov/badges/large)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taisumov)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taisumov&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **taisumov/taisumov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
