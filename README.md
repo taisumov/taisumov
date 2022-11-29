@@ -54,8 +54,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 </p>
-
+<h1 align="center"></h1>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taisumov&show_icons=true&locale=en&layout=compact" alt="taisumov" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taisumov&show_icons=true&locale=en&layout=compact" alt="taisumov" />
 </p>
+<h1 align="center"></h1>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=taisumov&show_icons=true&locale=en" alt="taisumov" /></p>
