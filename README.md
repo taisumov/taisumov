@@ -34,6 +34,6 @@
   </a>
 </p>
 <h1 align="center"></h1>
-<p>
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taisumov&show_icons=true&locale=en&layout=compact" alt="taisumov" />
-</p>
+</div>
