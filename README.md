@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, Я Ислам Тайсумов</h1>
+<h1 align="center">Привет 👋, я Ислам Тайсумов</h1>
 <h3>Фронтенд-разработчик из Санкт-Петербурга</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taisumov&label=Profile%20views&color=980eb4&style=plastic" alt="kirsonbrz" /> </p>
